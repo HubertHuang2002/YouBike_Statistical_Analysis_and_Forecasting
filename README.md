@@ -1,6 +1,6 @@
 ## YouBike_Statistical_Analysis_and_Forecasting
 
-### Preface
+## Preface
 This is my side project for practicing statistical analysis, data analytics, and machine learning.
 For a complete project introduction, please visit my **[personal website.](https://huberthuang2002.github.io/blog/post-6/)**
 
