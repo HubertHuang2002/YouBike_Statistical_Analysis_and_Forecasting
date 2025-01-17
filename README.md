@@ -10,6 +10,8 @@ This dataset is provided by Professor **Ling-Chieh Kung** from the Department of
 The dataset comprises a total of 275,280 records related to YouBike data for July 2017 and includes 12 columns: `sno`, `sna`, `sarea`, `date`, `hour`, `lent`, `returned`, `temperature`, `relative_humidity`, `wind_speed`, `precipitation`, and `station_pres`. 
 
 These columns represent the following:
+| **sno** | **sna** | **sarea** | **date** | **hour** | **lent** | **returned** | **temperature** | **relative_humidity** | **wind_speed** | **precipitation** | **station_pres** |
+|---------|---------|-----------|----------|----------|----------|--------------|-----------------|-----------------------|----------------|-------------------|---------------------|
 - **sno**: Station number
 - **sna**: Station name
 - **sarea**: Administrative area where the station is located
